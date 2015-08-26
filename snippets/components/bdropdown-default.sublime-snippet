@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group${1: btn-group-${2:(xs|sm|lg)}}${3: dropup}"> <!-- dropdown -->
+	<button class="btn btn-${4:(default|primary|success|info|warning|danger|link)} dropdown-toggle" type="button" data-toggle="dropdown">${5:__dropdown__}
+		<span class="caret"></span>
+	</button>
+	<ul class="dropdown-menu${6: dropdown-menu-right}">
+		${7:bddi}
+		${8:bddi}
+		${9:bddi}
+	</ul>
+</div> <!-- /dropdown -->
+]]></content>
+	<tabTrigger>bddd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

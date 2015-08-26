@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="navbar-brand" href="${1:#}">${2:<img width="20" height="20" alt="$3" src="$4">}</a>
+]]></content>
+	<tabTrigger>bnbibi</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

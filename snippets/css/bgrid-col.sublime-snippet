@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="${1:col-${2:(xs|sm|md|lg)}-${3:(1-12)}}">
+	${4:$SELECTION}
+</div>
+]]></content>
+	<tabTrigger>bcol</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

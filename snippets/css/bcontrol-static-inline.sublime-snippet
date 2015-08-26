@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<p class="form-control-static">$1</p>
+]]></content>
+	<tabTrigger>bctrlsti</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

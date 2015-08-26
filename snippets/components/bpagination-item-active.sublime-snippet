@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<li class="active"><a href="${1:#}">$2</a></li>
+]]></content>
+	<tabTrigger>bpgia</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

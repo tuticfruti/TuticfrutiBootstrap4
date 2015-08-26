@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group btn-group-justified${1: btn-group-${2:(xs|sm|lg)}}" role="group"> <!-- btn-group -->
+	${3:bbtnl}
+	${4:bbtnl}
+	${5:bbtnl}
+</div> <!-- /btn-group -->
+]]></content>
+	<tabTrigger>bbtngj</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

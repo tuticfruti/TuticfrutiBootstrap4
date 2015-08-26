@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<select class="form-control"${1: disabled}>
+	<option selected>$2</option>
+</select>
+]]></content>
+	<tabTrigger>bctrlsei</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

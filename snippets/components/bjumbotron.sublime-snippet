@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="jumbotron"> <!-- jumbotron -->
+	<div class="container"> <!-- Full width and without rounded corners -->
+		<h1>${1:__title__}</h1>
+		<p>${2:__content__}</p>
+		<p><a class="btn btn-primary btn-lg" href="#" role="button">${3:__learn_more__}</a></p>
+	</div>
+</div> <!-- /jumbotron -->
+]]></content>
+	<tabTrigger>bjt</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

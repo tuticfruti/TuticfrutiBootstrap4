@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<nav class="navbar navbar-${1:(default|inverse)}${2: navbar-${3:(fixed-top|fixed-bottom|static-top)}}">
+	<div class="container${4:-fluid}">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#${5:__target${TM_LINE_NUMBER}__}" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			${6:bnavbar-item-brand-image} <!-- optional brand -->
+		</div>
+		<div class="collapse navbar-collapse" id="$5">
+
+			<ul class="nav navbar-nav navbar-left"> <!-- float left (optional) -->
+				${7:bnavbar-item}
+			</ul>
+
+			<ul class="nav navbar-nav navbar-right"> <!-- float right (optional) -->
+				${8:bnavbar-item}
+			</ul>
+			${9:bnavbar-item-form} <!-- optional form -->
+		</div>
+	</div>
+</nav>
+]]></content>
+	<tabTrigger>bnbd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

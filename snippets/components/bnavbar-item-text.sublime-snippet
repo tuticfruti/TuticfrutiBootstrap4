@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<li>
+	<p class="navbar-text">$1</p>
+</li>
+]]></content>
+	<tabTrigger>bnbit</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

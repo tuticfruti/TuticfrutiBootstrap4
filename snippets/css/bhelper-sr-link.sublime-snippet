@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="sr-only sr-only-focusable" href="#">${1:$SELECTION}</a>
+]]></content>
+	<tabTrigger>bhsrl</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

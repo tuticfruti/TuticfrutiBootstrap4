@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<p class="mark">${1:$SELECTION}</p>
+]]></content>
+	<tabTrigger>btextm</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

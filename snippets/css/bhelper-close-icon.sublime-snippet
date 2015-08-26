@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="close"><span aria-hidden="true">&times;</span></button>
+]]></content>
+	<tabTrigger>bhci</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

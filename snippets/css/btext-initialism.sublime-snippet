@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<abbr title="$1" class="initialism">${2:$SELECTION}</abbr>
+]]></content>
+	<tabTrigger>btexti</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

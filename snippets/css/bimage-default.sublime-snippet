@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<img src="" alt="" class="img-${1:(rounded|circle|thumbnail)} img-responsive">
+]]></content>
+	<tabTrigger>bimgd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

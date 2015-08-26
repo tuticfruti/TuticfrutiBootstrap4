@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group${1: input-group-${2:(sm|lg)}}"> <!-- input-group -->
+	${3:bctrlii} <!-- Optional -->
+	<div class="input-group-btn">
+	<button type="button" class="btn btn-${4:(default|primary|success|info|warning|danger|link)}${5: btn-group-${6:(xs|sm|lg)}}">${7:__action__}</button>
+	<button class="btn btn-$4 dropdown-toggle" type="button" data-toggle="dropdown">
+		<span class="caret"></span>
+	</button>
+	<ul class="dropdown-menu${8: dropdown-menu-right}">
+		${9:bddi}
+		${10:bddi}
+		${11:bddi}
+	</ul>
+	</div>
+	${12:bctrlii} <!-- Optional -->
+</div> <!-- /input-group -->
+]]></content>
+	<tabTrigger>bigs</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

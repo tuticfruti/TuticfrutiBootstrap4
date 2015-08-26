@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<li class="disabled"><span>$1</span></li>
+]]></content>
+	<tabTrigger>bpgidi</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

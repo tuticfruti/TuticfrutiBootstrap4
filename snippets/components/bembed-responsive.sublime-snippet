@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="embed-responsive embed-responsive-${1:(16by9|4by3)}">
+	<iframe class="embed-responsive-item" src="$2"></iframe>
+</div>
+]]></content>
+	<tabTrigger>ber</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

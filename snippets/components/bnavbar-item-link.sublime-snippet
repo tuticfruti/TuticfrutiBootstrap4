@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<li${1: class="${2:(active|disabled)}"}>
+	<a href="${3:#}" class="navbar-link">$4</a>
+</li>
+]]></content>
+	<tabTrigger>bnbil</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

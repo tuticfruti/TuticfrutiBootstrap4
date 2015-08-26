@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<li class="${1:(dropdown|dropup)}">
+	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-has-popup="true" aria-expanded="false">Dropdown
+		<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+		${2:bdropdown-item}
+		${3:bdropdown-item}
+		${4:bdropdown-item}
+	</ul>
+</li>
+]]></content>
+	<tabTrigger>bnbidd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

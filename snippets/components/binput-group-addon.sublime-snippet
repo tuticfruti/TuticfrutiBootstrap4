@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group${1: input-group-${2:(sm|lg)}}"> <!-- input-group -->
+	${3:<span class="input-group-addon">$4</span>} <!-- addon left (optional) -->
+	${5:bctrlii}
+	${6:<span class="input-group-addon">$7</span>} <!-- addon right (optional) -->
+</div> <!-- /input-group -->
+]]></content>
+	<tabTrigger>biga</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

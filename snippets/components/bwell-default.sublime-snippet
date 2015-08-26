@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<div class="well well-${1:(sm|lg)}">$2</div>
+]]></content>
+	<tabTrigger>bwd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

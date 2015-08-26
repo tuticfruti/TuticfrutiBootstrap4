@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="thumbnail">
+	<img src="$3" alt="$4">
+	<div class="caption">
+		<h${5:(1-6)}>${7:__title__}</h$5>
+		<p>${8:__content__}</p>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>btd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

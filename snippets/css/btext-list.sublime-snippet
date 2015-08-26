@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list-${1:(unstyled|inline)}">
+	<li>$2</li>
+</ul>
+]]></content>
+	<tabTrigger>btextli</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}" type="button">
+	${2:__label__} <span class="badge">${3:__value__}</span>
+</button>
+]]></content>
+	<tabTrigger>bbb</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

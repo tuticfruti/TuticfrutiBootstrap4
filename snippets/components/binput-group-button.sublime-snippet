@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group${1: input-group-${2:(sm|lg)}}"> <!-- input-group -->
+	${3:bctrlii}
+	<span class="input-group-btn">
+		${4:bbtnd}
+	</span>
+	${5:bctrlii}
+</div> <!-- /input-group -->
+]]></content>
+	<tabTrigger>bigb</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

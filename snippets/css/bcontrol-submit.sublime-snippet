@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div> <!-- Horizontal forms -->
+	<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}" type="submit"${2: disabled}>$3</button>
+</div>
+]]></content>
+	<tabTrigger>bctrlsu</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<li class="list-group-item${1: ${2:(active|disabled)}}">
+	<span class="badge">${3:__value__}</span>
+	${4:__label__}
+</li>
+]]></content>
+	<tabTrigger>blg1ib</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

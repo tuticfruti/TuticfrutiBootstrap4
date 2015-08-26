@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<h${1:(1-6)}><span class="label label-${2:(default|primary|success|info|warning|danger)}">${3:$SELECTION}</span></h$1>
+]]></content>
+	<tabTrigger>blb</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

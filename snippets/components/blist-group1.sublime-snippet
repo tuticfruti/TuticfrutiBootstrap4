@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list-group"> <!-- list-group -->
+	${1:blistgroup1i}
+</ul> <!-- /list-group -->
+]]></content>
+	<tabTrigger>blg1</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

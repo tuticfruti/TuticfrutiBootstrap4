@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="checkbox${1: disabled}"> <!-- Horizontal forms -->
+	<label>
+		<input type="checkbox"$1> $2
+	</label>
+	${3:bctrlht}
+</div>
+]]></content>
+	<tabTrigger>bctrlc</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

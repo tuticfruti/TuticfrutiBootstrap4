@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div> <!-- Horizontal forms -->
+	<select class="form-control"${1: disabled}>
+		<option selected>$2</option>
+	</select>
+	${3:bctrlht}
+</div>
+]]></content>
+	<tabTrigger>bctrlse</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

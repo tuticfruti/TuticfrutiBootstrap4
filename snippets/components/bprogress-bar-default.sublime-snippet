@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="progress"> <!-- progress -->
+	<div class="progress-bar${1: progress-bar-${2:(success|info|warning|danger)}}${3: progress-bar-striped}${4: active}" role="progressbar" aria-valuenow="${5:60}" aria-valuemin="0" aria-valuemax="100" style="width: $5%; min-width: 3em;">
+		<!-- Remove span element to show a visible percentage. -->
+		<span class="sr-only">$5%</span>
+	</div>
+</div> <!-- /progress -->
+]]></content>
+	<tabTrigger>bpbd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

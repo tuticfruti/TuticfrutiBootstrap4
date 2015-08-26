@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="#">${1:__label__} <span class="badge">${2:__value__}</span></a>
+]]></content>
+	<tabTrigger>bbl</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

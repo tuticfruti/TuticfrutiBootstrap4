@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ol class="breadcrumb">
+	${1:bbci}
+</ol>
+]]></content>
+	<tabTrigger>bbcd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

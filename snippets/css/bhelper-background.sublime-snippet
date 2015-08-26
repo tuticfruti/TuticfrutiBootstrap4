@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<p class="bg-${1:(primary|success|info|warning|danger)}">${2:$SELECTION}</p>
+]]></content>
+	<tabTrigger>bhbg</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

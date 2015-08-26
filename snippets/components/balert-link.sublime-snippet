@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="alert-link">${2:$SELECTION}</a>
+]]></content>
+	<tabTrigger>bal</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

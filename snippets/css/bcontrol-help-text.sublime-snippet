@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<span class="help-block">${1:$SELECTION}</span>
+]]></content>
+	<tabTrigger>bctrlht</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>
