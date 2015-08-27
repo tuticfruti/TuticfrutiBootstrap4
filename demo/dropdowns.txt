@@ -1,6 +1,0 @@
-bdd
-	bdih
-	bdid
-	bdidiv
-	bdid
-	bdidis

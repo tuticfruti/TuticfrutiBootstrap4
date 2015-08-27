@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="media"> <!-- media -->
-	${1:bmediaid}
+	${1:bmid}
 </div> <!-- /media -->
 ]]></content>
 	<tabTrigger>bmd</tabTrigger>

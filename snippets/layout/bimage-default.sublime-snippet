@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<img src="" alt="" class="img-${1:(rounded|circle|thumbnail)} img-responsive">
+<img src="$1" alt="$2" class="img-responsive${3: img-(rounded|circle|thumbnail)}">
 ]]></content>
 	<tabTrigger>bimgd</tabTrigger>
 	<scope>text.html - meta.tag</scope>
