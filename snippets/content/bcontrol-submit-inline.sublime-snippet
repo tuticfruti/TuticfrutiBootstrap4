@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}" type="submit"${2: disabled}>$3</button>
-]]></content>
-	<tabTrigger>bctrlsui</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

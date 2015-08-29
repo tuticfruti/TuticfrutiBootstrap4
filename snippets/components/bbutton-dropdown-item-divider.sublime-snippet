@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<div class="dropdown-divider"></div>
+]]></content>
+  <tabTrigger>bbtnddid</tabTrigger>
+  <scope>text.html - meta.tag</scope>
+</snippet>

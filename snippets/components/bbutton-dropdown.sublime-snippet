@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+	<button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		Action
+    <span class="sr-only">Split button dropdown</span>
+	</button>
+	<div class="dropdown-menu">
+		${1:bbtndi}
+	</div>
+</div>
+]]></content>
+	<tabTrigger>bbtndd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

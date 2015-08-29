@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<div class="btn-toolbar" role="toolbar"> <!-- btn-toolbar -->
-	${1:bbtngd}
-	${2:bbtngd}
-</div> <!-- /btn-toolbar -->
+<div class="btn-toolbar" role="toolbar" aria-label="">
+	${1:bbtng}
+</div>
 ]]></content>
 	<tabTrigger>bbtnt</tabTrigger>
 	<scope>text.html - meta.tag</scope>

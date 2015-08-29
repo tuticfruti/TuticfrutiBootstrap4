@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+${1:<div class="media-left"> <!-- image left (optional) -->
+	<a href="#"><img class="media-object" src="" alt=""></a>
+</div>
+}<div class="media-body">
+	<h4 class="media-heading">${1:__title__}</h4>
+	${2:__content__}
+	${3:bmediai}
+</div>
+]]></content>
+	<tabTrigger>bmediai</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="radio"${1: disabled}> $2
-]]></content>
-	<tabTrigger>bctrlri</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

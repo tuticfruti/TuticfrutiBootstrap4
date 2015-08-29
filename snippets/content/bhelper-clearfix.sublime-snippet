@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="clearfix"></div>
-]]></content>
-	<tabTrigger>bhcl</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

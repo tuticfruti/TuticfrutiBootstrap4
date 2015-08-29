@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button type="button" class="list-group-item${1: ${2:(active|disabled)}}">${3:__label__}</button>
-]]></content>
-	<tabTrigger>blg2ib</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

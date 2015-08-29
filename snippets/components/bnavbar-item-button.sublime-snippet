@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li>
-	<button type="button" class="btn btn-default navbar-btn">${1:__label__}</button>
-</li>
-]]></content>
-	<tabTrigger>bnbib</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

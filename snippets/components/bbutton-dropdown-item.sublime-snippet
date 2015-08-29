@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<a class="dropdown-item" href="#">${1:$SELECTION}</a>
+]]></content>
+  <tabTrigger>bbtnddi</tabTrigger>
+  <scope>text.html - meta.tag</scope>
+</snippet>

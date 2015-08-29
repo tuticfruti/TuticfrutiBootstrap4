@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}${2: btn-${3:(xs|sm|lg)}}${4: btn-block}" type="${5:button}">${6:$SELECTION}</button>
-]]></content>
-	<tabTrigger>bbtnd</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

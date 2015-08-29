@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li class="list-group-item list-group-item-${1:(success|info|warning|danger)}${2: ${3:(active|disabled)}}">${4:__label__}</li>
-]]></content>
-	<tabTrigger>blg1ic</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

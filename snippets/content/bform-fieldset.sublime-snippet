@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<fieldset${1: disabled}>${2:$SELECTION}
-</fieldset>
-]]></content>
-	<tabTrigger>bffs</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

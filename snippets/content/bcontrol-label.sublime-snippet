@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label class="control-label">${1:$SELECTION}</label> <!-- Horizontal forms -->
-]]></content>
-	<tabTrigger>bctrll</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

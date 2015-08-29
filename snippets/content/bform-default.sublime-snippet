@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<form${1:${2: class="form-${3:(horizontal|inline)}"} action="#" method="post"}>
-	${4:bformg}
-</form>
-]]></content>
-	<tabTrigger>bfd</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

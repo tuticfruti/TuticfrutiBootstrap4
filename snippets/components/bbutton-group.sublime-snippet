@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div class="col-sm-12">
-	${4:$SELECTION}
+<div class="btn-group" role="group" aria-label="">
+  ${1:bbtn}
 </div>
 ]]></content>
-	<tabTrigger>bcol</tabTrigger>
+	<tabTrigger>bbtng</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

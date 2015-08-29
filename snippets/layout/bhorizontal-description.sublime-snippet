@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<dl class="dl-horizontal">
+	<dt class="col-sm-3 text-truncate">${1:__term__}</dt>
+	<dd class="col-sm-9">
+		${2:__description__}
+	</dd>
+</dl>
+]]></content>
+	<tabTrigger>blistd</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

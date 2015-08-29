@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<tr${1: class="${2:(active|success|warning|danger|info)}"}>${3:$SELECTION}</tr>
-]]></content>
-	<tabTrigger>btr</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

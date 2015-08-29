@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li role="separator" class="divider"></li>
-]]></content>
-	<tabTrigger>bddidiv</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

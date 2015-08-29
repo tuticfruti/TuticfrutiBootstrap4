@@ -1,9 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<div class="col-sm-12">
-	${4:$SELECTION}
-</div>
+<img src="$1" alt="$2" class="img-responsive">
 ]]></content>
-	<tabTrigger>bcol</tabTrigger>
+	<tabTrigger>bimg</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

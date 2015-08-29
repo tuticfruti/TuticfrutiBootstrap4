@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<blockquote class="blockquote$1">
+	<p>${2:$SELECTION}</p>
+	<footer>$3</footer>
+</blockquote>
+]]></content>
+	<tabTrigger>bblockq</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<ul class="nav nav-${1:(tabs|pills)}${2:${3: nav-stacked}${4: nav-justified}}"> <!-- nav -->
-	${5:bnavi}
-</ul> <!-- /nav -->
-]]></content>
-	<tabTrigger>bnd</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

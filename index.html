@@ -11,12 +11,41 @@
     </head>
     <body>
 
-        <div class="kkk kkkk kkkk kkkk kkkk kkkk">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    &nbsp;
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
 
+
+                    <div class="btn-group btn-group-lg">
+                        <button type="button" class="btn btn-primary btn-lg">Action</button>
+                        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="sr-only">Split button dropdown</span>
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">Hola mudo!</a>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
         </div>
 
         <!-- jQuery first, then Bootstrap JS. -->
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script>
+        $(document).ready(function() {
+            $('#id1').on('click', function() {
+                console.log('llega')
+            })
+        })
+        </script>
+
     </body>
 </html>

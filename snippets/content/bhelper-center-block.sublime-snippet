@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="center-block">${1:$SELECTED}</div>
-]]></content>
-	<tabTrigger>bhcb</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

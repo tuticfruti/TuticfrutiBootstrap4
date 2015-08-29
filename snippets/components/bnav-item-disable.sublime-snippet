@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li class="disabled" role="presentation"><a href="#">${1:Disabled item}</a></li>
-]]></content>
-	<tabTrigger>bnidi</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

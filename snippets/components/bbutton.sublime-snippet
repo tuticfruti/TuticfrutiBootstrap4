@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-secondary" type="button" data-toggle="button" aria-pressed="false" autocomplete="off">${1:$SELECTION}</button>
+]]></content>
+	<tabTrigger>bbtn</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

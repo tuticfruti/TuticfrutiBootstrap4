@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="media"> <!-- media -->
-	${1:bmid}
-</div> <!-- /media -->
-]]></content>
-	<tabTrigger>bmd</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>
